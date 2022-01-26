@@ -13,10 +13,6 @@
   <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
   <img align="center" alt="Quasar Framework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://instagram.flis8-2.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/247196025_2145119068964638_1633422010920357385_n.jpg?_nc_ht=instagram.flis8-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=W7Db5gV9v24AX_0VfFJ&edm=ABJHkxYAAAAA&ccb=7-4&oh=6660c1b357fe84020e1a7272cd6b51a7&oe=617A8CA6&_nc_sid=fa978c&ig_cache_key=MjY5MDIxMzAyNjQwNzI0MTgzOA%3D%3D.2-ccb7-4">
-</div>
-  
-  ##
  
 <div> 
   
