@@ -7,7 +7,9 @@ I value communication and empathy, and that's the most important thing above all
 
 ## 💭 Contacts
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrovdf) 
-
+ [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@pedr0d1as) 
+ [![Blog Page](https://img.shields.io/badge/Blog-%23E4405F.svg?logo=&logoColor=white)](https://medium.com/@pedr0d1as) 
+ 
 ## 🌐 Some others networks
 [![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/fariapv)
 [![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/fariapv/)
