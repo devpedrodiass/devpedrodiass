@@ -11,8 +11,8 @@ I value communication and empathy, and that's the most important thing above all
  [![Blog Page](https://img.shields.io/badge/Blog-%23E4405F.svg?logo=&logoColor=white)](https://medium.com/@pedr0d1as) 
  
 ## 🌐 Some others networks
-[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/fariapv)
-[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/fariapv/)
+[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/pedr0d1as)
+[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/pedr0d1as/)
 
 ## 🧑‍💻 Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
