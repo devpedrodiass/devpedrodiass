@@ -6,7 +6,7 @@ I'm a Web Developer who loves to learn new things and technology, I'm always tal
 I value communication and empathy, and that's the most important thing above all, both at work and outside.
 
 ## 💭 Contacts
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrovdf) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedr0d1as) 
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@pedr0d1as) 
  [![Blog Page](https://img.shields.io/badge/Blog-%23E4405F.svg?logo=&logoColor=white)](https://medium.com/@pedr0d1as) 
  
