@@ -2,7 +2,7 @@
 **`Web Developer`**
 
 Hello Guys! 😋 Welcome to my profile!<br>
-I'm a Web Developer who loves to learn new things and technology, I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising. I hope to one day be able to pass on all my knowledge to the people around me both about technology and life. I believe that one day I will be able to help many people with the power that technology has.
+I'm a Web Developer who loves to learn new things, I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising. I hope to one day be able to pass on all my knowledge to the people around me both about technology and life. I believe that one day I will be able to help many people with the power that technology has.
 I value communication and empathy, and that's the most important thing above all, both at work and outside.
 
 ## 💭 Contacts
