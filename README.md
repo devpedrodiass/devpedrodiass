@@ -6,13 +6,13 @@ I'm a Web Developer who loves to learn new things, I'm always talking to more ex
 I value communication and empathy, and that's the most important thing above all, both at work and outside.
 
 ## 💭 Contacts
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedr0d1as) 
- [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@pedr0d1as) 
- [![Blog Page](https://img.shields.io/badge/Blog-%23E4405F.svg?logo=&logoColor=white)](https://medium.com/@pedr0d1as) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devpedrodias) 
+ [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@devpedrodias) 
+ [![Blog Page](https://img.shields.io/badge/Blog-%23E4405F.svg?logo=&logoColor=white)](https://medium.com/@devpedrodias) 
  
 ## 🌐 Some others networks
-[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/pedr0d1as)
-[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/pedr0d1as/)
+[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/devpedrodias)
+[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/devpedrodias/)
 
 ## 🧑‍💻 Tools
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -33,4 +33,4 @@ I value communication and empathy, and that's the most important thing above all
 
 
 # 📊 GitHub
-![](https://github-readme-stats.vercel.app/api?username=pedr0d1as&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api?username=devpedrodias&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</br>
