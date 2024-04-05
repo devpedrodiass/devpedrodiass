@@ -2,7 +2,6 @@
 **`Frontend Developer Developer`**
 
 Hello Guys! 😋 Welcome to my profile! </br>
-I am a Programmer with an incredible desire to learn. I love to talk to experienced people and discuss the technology of the moment to always gain more knowledge. I value organization and communication in everything in my life, I believe these are the keys to success. I will put my all into every project I am involved in and I will help everyone who needs it.
 
 ## 💭 Contacts
  [![Linkedin](https://img.shields.io/badge/linkedin-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpedrodias) 
