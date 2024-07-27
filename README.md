@@ -1,5 +1,5 @@
 # 🚀 Pedro Dias
-**`Frontend Developer Developer`**
+**`Frontend Develope`**
 
 Hello Guys! 😋 Welcome to my profile! </br>
 
